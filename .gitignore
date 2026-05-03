@@ -1,11 +1,9 @@
 # macOS
 .DS_Store
 
-# IDEs
+# Editors / local tool config
 .idea/
 .vscode/
-
-# Claude Code
 .claude/
 
 # Java
